@@ -1,0 +1,130 @@
+ /* ---- small device responsive ----- */
+
+ @media (max-width: 575.98px) {
+
+     /* ------ banner section responsive ----- */
+     .banner_overlay {
+         padding: 100px 0;
+     }
+
+     .banner_text h3 {
+         font-size: 26px;
+     }
+
+     .banner_text h1 {
+         font-size: 40px;
+         line-height: 42px;
+     }
+
+     .banner_text p {
+         padding: 0;
+         padding-top: 10px;
+
+     }
+
+     /* ----- banner section responsive end ------ */
+
+     /* ----- nav bar section responsive start ------ */
+     .navbar i {
+         color: white;
+     }
+
+     /* ----- nav bar section responsive end -------- */
+     /* ------- service section responsive  start -----  */
+     #service {
+         padding: 50px 0;
+     }
+
+     /* ------- service section responsive  end -------  */
+     /* ------- portfolio section responsive  start -----  */
+     #portfolio {
+         padding-top: 50px;
+     }
+
+     .portfolio_text p {
+         padding-bottom: 20px;
+     }
+
+     /* ------- portfolio section responsive  end -----  */
+     /* ------- pursech  section responsive  start -----  */
+
+     .purchase_text h2 {
+         line-height: 35px;
+         text-align: center;
+     }
+
+     .purchase_text h4 {
+         text-align: center;
+     }
+
+     .text-right {
+         text-align: center !important;
+         padding-top: 25px;
+     }
+
+     .blog_btn button {
+         margin-top: 10px;
+     }
+
+     /* ------- pursech section responsive  end -----  */
+     /* ------- vedio  section responsive  start -----  */
+
+     .video_overlay {
+         padding: 250px 0;
+     }
+
+     .video_text h2 {
+         font-size: 35px;
+         padding-top: 40px;
+         line-height: 35px;
+     }
+
+     .video_text p {
+         font-size: 16px;
+         line-height: 20px;
+     }
+
+     /* ------- vedio section responsive end ------- */
+     /* ------ responsive section responsive start ------- */
+
+     .responsive_text {
+         padding-top: 60px;
+     }
+
+     .responsive_text h2 {
+         font-size: 30px;
+         line-height: 32px;
+         text-align: center;
+     }
+
+     .responsive_text p {
+         text-align: center;
+     }
+
+
+     .list_item {
+         padding-left: 40px;
+     }
+
+     /* ------ responsive section responsive end ------- */
+     /* ------ counter section responsive start ------ */
+
+     .counter_item {
+         padding-bottom: 50px;
+     }
+
+     /* ------ counter section responsive end ------- */
+
+
+     /* ------ logos section resopnsive start ------ */
+
+     .logos_overlay {
+         padding: 40px 0;
+     }
+
+     /* ------ logos section responsive end ------- */
+
+
+
+
+ }
